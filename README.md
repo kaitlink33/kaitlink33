@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kaitlink33
-- 👀 I’m interested in cybersecurity and CS
-- 🌱 I’m currently learning Python, HTML, CSS, & JavaScript.
-- 📫 Mail at kaitlinkendig@gmail.com
+-  Hi, I’m @kaitlink33
+-  I’m interested in cybersecurity and CS
+-  Mail at kaitlinkendig@gmail.com
 
 <!---
 kaitlink33/kaitlink33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
